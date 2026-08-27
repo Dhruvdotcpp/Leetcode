@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/Dhruvdotcpp/Leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Dhruvdotcpp/Leetcode/tree/master/1109-corporate-flight-bookings) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0732-my-calendar-iii](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0732-my-calendar-iii) |
+| [1094-car-pooling](https://github.com/Dhruvdotcpp/Leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Dhruvdotcpp/Leetcode/tree/master/1109-corporate-flight-bookings) |
 ## Binary Search
 |  |
@@ -32,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0732-my-calendar-iii) |
+## Sorting
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Dhruvdotcpp/Leetcode/tree/master/1094-car-pooling) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Dhruvdotcpp/Leetcode/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Dhruvdotcpp/Leetcode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
