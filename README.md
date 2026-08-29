@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0525-contiguous-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0525-contiguous-array) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1094-car-pooling](https://github.com/Dhruvdotcpp/Leetcode/tree/master/1094-car-pooling) |
 ## Heap (Priority Queue)
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
@@ -85,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
