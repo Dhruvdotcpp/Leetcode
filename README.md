@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0525-contiguous-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1094-car-pooling](https://github.com/Dhruvdotcpp/Leetcode/tree/master/1094-car-pooling) |
 ## Heap (Priority Queue)
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Dhruvdotcpp/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
